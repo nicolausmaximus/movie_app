@@ -1,16 +1,15 @@
 # movie_app
 
-A new Flutter project.
+Created a flutter app using which we can view the details of movies, their imdb ratings, release date, genre and also view the trailer of the movie/series. 
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/63350417/148347067-8d34dd26-49b8-4f49-8574-04f5a34d652e.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/63350417/148347083-7ecdc9a7-bdbc-41e0-b4c5-db33398673d7.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/63350417/148347104-62c009f7-b9ad-4ebc-a4e3-5c5da6ac1573.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/63350417/148347123-e6e2fb4b-9a61-41b1-8299-ad8232f0ea36.png)
+
+
